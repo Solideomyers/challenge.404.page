@@ -1,11 +1,8 @@
 # challenge.404.page
-First challenge from the devChallenges.io
 ![GitHub contributors](https://img.shields.io/github/contributors/solideomyers/countriesapi.2.0?style=for-the-badge) ![GitHub Repo stars](https://img.shields.io/github/stars/solideomyers/countriesapi.2.0?style=for-the-badge) ![GitHub forks](https://img.shields.io/github/forks/solideomyers/countriesapi.2.0?style=for-the-badge)
 
-# challenge.404.page
-
-### This is an enhanced version of the Individual Project from the SOYHENRY BOOTCAMP. The most significant changes that have been made are as follows:
-
+## challenge.404.page
+# This is the first challenge from devChallenges.io that I have embarked on to improve in all aspects of web development.
 
 ### Built With
 
