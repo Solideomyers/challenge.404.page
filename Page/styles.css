@@ -1,0 +1,139 @@
+body {
+    margin: 0;
+    padding: 20px;
+    height: 100vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: space-between;
+    align-content: center;
+    box-sizing: border-box;
+  }
+  
+  #h404 {
+    font-family: 'Inconsolata', monospace;
+    color: #333;
+    font-size: 24px;
+    font-weight: 700;
+    text-transform: uppercase;
+    letter-spacing: -1.92px;
+  }
+  
+  #scarecrow {
+    width: 100%;
+    height: auto;
+    max-width: 500px;
+  }
+
+  @media (max-width: 768px) {
+    #scarecrow {
+        width: 100%;
+        height: auto;
+        max-width: 300px;
+    }
+  }
+  
+  
+  #central {
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    padding: 20px;
+    flex: 1;
+  }
+
+  @media (max-width: 768px) {
+    #central {
+        display: flex;
+        flex-direction: column;
+        justify-content: space-around;
+        flex-grow: 1;
+        align-items: center;
+    }
+  }
+  
+  #boxtext {
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+    gap: 15px;
+    text-align: center;
+    color: #333;
+  }
+  
+  #boxtext h1 {
+    width: 100%;
+    max-width: 550px;
+    text-align: left;
+    font-family: 'Inconsolata', monospace;
+    font-size: 74px;
+    font-weight: 700;
+    line-height: 94.8px;
+    letter-spacing: -3.5px;
+    margin: 0;
+  }
+
+  @media (max-width: 768px) {
+    #boxtext {
+        width: 400px;
+    }
+  }
+
+  @media (max-width: 490px) and (max-width: 490px)  {
+    #boxtext {
+        width: 300px;
+    }
+  }
+  
+  #boxtext p {
+    width: 100%;
+    max-width: 300px;
+    font-family: 'Inconsolata', monospace;
+    font-size: 25px;
+    font-weight: 400;
+    line-height: 45.5px;
+    letter-spacing: -1.0px;
+    text-align: left;
+    margin: 0;
+  }
+  
+  #back {
+    width: 160px;
+    margin-top: 1rem;
+    padding: 12px 20px;
+    background: #333;
+    border: none;
+    cursor: pointer;
+    transition: background-color 0.3s ease;
+  }
+
+  @media (max-width: 768px) {
+    #back {
+    margin-left: 60px;
+    }
+  }
+  
+  #back-span {
+    text-transform: uppercase;
+    font-family: 'Inconsolata', monospace;
+    font-weight: 700;
+    font-size: 14px;
+    line-height: 1.5;
+    letter-spacing: -0.49px;
+    color: #fff;
+  }
+  
+  
+  #foot {
+    font-family: 'Inconsolata', monospace;
+    letter-spacing: -1.2px;
+    color: #333;
+    text-align: center;
+    margin-top: auto;
+  }
+
+  #foot span {
+    font-weight: 700;
+    letter-spacing: -1.2px;
+  }
+  
+
