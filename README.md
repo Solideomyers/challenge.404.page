@@ -8,6 +8,7 @@
 
 * [![HTMLl5][html5]][html-url][![CSS3][css3]][css-url][![Javascript][javascript]][js-url]
 * [![Git][git]][git-url][![Github][github]][github-url][![Figma][Figma-des]][Figma-url]
+* [![Vercel][vercel]][vercel-url]
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
 
@@ -24,8 +25,8 @@
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[Render]: https://img.shields.io/badge/Vercel-%46E3B7.svg?style=for-the-badge&logo=vercel&logoColor=white
-[Render-url]: https://vercel.com/
+[Vercel]: https://img.shields.io/badge/Vercel-%46E3B7.svg?style=for-the-badge&logo=vercel&logoColor=white
+[Vercel-url]: https://vercel.com/
 [html5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [html-url]: https://es.wikipedia.org/wiki/HTML5
 [css3]: https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white
