@@ -25,7 +25,7 @@
 <!-- MARKDOWN LINKS & IMAGES -->
 <!-- https://www.markdownguide.org/basic-syntax/#reference-style-links -->
 
-[Vercel]: https://img.shields.io/badge/Vercel-%46E3B7.svg?style=for-the-badge&logo=vercel&logoColor=white
+[Vercel]: https://img.shields.io/badge/Vercel-%23121011.svg?style=for-the-badge&logo=vercel&logoColor=white
 [Vercel-url]: https://vercel.com/
 [html5]: https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white
 [html-url]: https://es.wikipedia.org/wiki/HTML5
