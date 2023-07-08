@@ -19,6 +19,7 @@
 
 
 * Project Link: [https://github.com/solideomyers/challenge.404.page](https://github.com/solideomyers/challenge.404.page)
+* Figma Link: [https://www.figma.com/file/WJxX3xhAc0JJmK4WPhwxLD/Page-404---challenge-one?type=design&node-id=0-1&mode=design&t=8IQuwR76x57RYNDo-0](https://www.figma.com/file/WJxX3xhAc0JJmK4WPhwxLD/Page-404---challenge-one?type=design&node-id=0-1&mode=design&t=8IQuwR76x57RYNDo-0)
 * Deploy Link: [https://challenge-404-page-ynkq-arj9etycb-solideomyers.vercel.app/](https://challenge-404-page-ynkq-arj9etycb-solideomyers.vercel.app/)
 
 <p align="right">(<a href="#readme-top">back to top</a>)</p>
